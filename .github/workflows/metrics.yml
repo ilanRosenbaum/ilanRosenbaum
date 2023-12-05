@@ -22,5 +22,9 @@ jobs:
           config_timezone: America/Chicago
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_details: percentage
+          plugin_languages_indepth_custom: ilanRosenbaum/rooms
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: lines
+          plugin_languages_recent_load: 1000
+          plugin_languages_recent_days: 90
           plugin_lines: yes

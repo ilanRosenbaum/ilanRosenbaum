@@ -24,5 +24,5 @@ jobs:
           plugin_languages_indepth_custom: ilanRosenbaum/rooms
           plugin_languages_sections: most-used
           plugin_languages_details: lines
-          plugin_languages_colors: github, go:blue
+          plugin_languages_colors: complementary
           plugin_languages_indepth: true

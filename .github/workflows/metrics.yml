@@ -13,7 +13,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
+            
           # Options
           user: ilanRosenbaum
           template: classic
@@ -27,3 +27,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_indepth: true
           debug: true
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}  
+      

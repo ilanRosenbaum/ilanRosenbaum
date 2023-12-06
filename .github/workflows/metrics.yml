@@ -26,3 +26,4 @@ jobs:
           plugin_languages_details: lines
           plugin_languages_colors: github
           plugin_languages_indepth: true
+          debug: true

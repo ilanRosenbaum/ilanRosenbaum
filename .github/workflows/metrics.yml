@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: ilanRosenbaum/metrics@master
-        env:
-          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}  
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}

@@ -170,14 +170,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.64226990138945" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="320.64226990138945" y="0" width="48.0683208587208" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="368.7105907601103" y="0" width="33.09492569238969" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="401.8055164525" y="0" width="19.269602140427484" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="421.0751185929275" y="0" width="18.03641276536219" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="439.11153135828965" y="0" width="8.060122497330664" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="447.1716538556204" y="0" width="6.5683217440730095" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="453.73997559969337" y="0" width="6.260024400306686" height="8" fill="#6866fb"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.5210410407593" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="318.5210410407593" y="0" width="47.750321895206405" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="366.2713629359657" y="0" width="32.87598415501628" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="399.147347090982" y="0" width="19.142122890091255" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="418.28946998107324" y="0" width="17.917091755964737" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="436.206561737038" y="0" width="9.568027186952515" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="445.7745889239905" y="0" width="8.006800256108974" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="453.7813891800995" y="0" width="6.218610819900511" height="8" fill="#6866fb"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -217,12 +217,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                RobotFramework
+                                C++
                             </div>
                             <small>
-                                <div>219 lines</div>
+                                <div>570 lines</div>
                             </small>
                         </div>
                     </section>
@@ -252,12 +252,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                RobotFramework
                             </div>
                             <small>
-                                <div>570 lines</div>
+                                <div>309 lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -276,7 +276,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2024, 04:20:53 (timezone America/Chicago) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 31 Aug 2024, 05:20:31 (timezone America/Chicago) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

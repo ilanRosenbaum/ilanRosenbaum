@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: ilanRosenbaum/metrics@master
         with:
-          # Your GitHub token
+          # Your GitHub token rerun
           token: ${{ secrets.METRICS_TOKEN }}
             
           # Options
